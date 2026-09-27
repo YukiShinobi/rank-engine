@@ -1,0 +1,12 @@
+{
+  "name": "rank-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Competitive rating engine with Elo, placements, decay and seasons.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": { "node": ">=20" }
+}
